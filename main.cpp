@@ -2,7 +2,7 @@
 // Universidade do Vale do Itajai.
 // Professor: Rafeal Ballottin Martins.
 // Cursos: Engenharia da Computação e Ciência da Computação.
-// Alunos: Abd Al Hadi Al Dairi, Jamao Khayf de Mello Bernal, Joao Victor Rodrigues, Yuri Rodrigues.
+// Aluno: Yuri Rodrigues.
 // Data de Conclusao: 07/09/2022.
 #include <iostream>
 #include <Windows.h>
@@ -357,7 +357,7 @@ int main()
 			cout << "Universidade do Vale do Itajai" << endl;
 			cout << "Professor: Rafeal Ballottin Martins." << endl;
 			cout << "Cursos: Engenharia da Computação e Ciência da Computação." << endl;
-			cout << "Alunos: Abd Al Hadi Al Dairi, Jamao Khayf de Mello Bernal, Joao Victor Rodrigues, Yuri Rodrigues." << endl;
+			cout << "Aluno: Yuri Rodrigues." << endl;
 			cout << "Data de Conclusao: 06/09/2022." << endl << endl;
 			textcolor(WHITE, BLACK);
 			system("pause");
